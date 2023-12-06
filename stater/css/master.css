@@ -1,0 +1,46 @@
+body {
+    background-color: #d7d7d7;
+    color: black;
+}
+.my_header{
+    padding:10px 20px;
+    /* background: #e1e3e4; */
+    text-align:center;
+    line-height:1.5em;
+}
+.weather_box{
+    padding:20px 20px;
+    background:#fff;
+    border-radius:8px;
+}
+.w_button{
+  width:100%;
+  padding:10px 0;
+  border-radius:100px;
+}
+.weather_answer{
+    margin-top:30px;
+    background:#2AAA8A;
+    color: #fff;
+    border-radius: 30px;
+}
+.ans{
+    background:#fff;
+    color:#000;
+}
+.answer_box{
+    padding:20px;
+    
+}
+.answer_heading{
+    text-align:center;
+}
+.w-day{
+    display:block !important;
+    padding:20px;
+    text-align:center;
+}
+.w-head{
+    font-style:bold;
+    font-size:1.2em;
+}
